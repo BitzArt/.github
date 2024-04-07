@@ -1,7 +1,7 @@
 ## General-purpose packages
 
 - #### 🫧 [ApiExceptions](https://github.com/BitzArt/ApiExceptions) is a nuget package extending the functionality of .Net exceptions.
-  Provides additional exception classes and advanced functionality for handling errors. Contains ProblemDetails implementation for Asp.Net Core.
+  Provides additional exception classes and advanced functionality for handling errors. Implements [Problem Details](https://www.rfc-editor.org/rfc/rfc7807) for Asp.Net Core.
 
 - #### 📚 [Pagination](https://github.com/BitzArt/Pagination) is a lightweight nuget package that provides pagination capabilities.
     Allows separating data from any source into discrete pages. Works with (or without) EF Core.
