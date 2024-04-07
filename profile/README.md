@@ -14,7 +14,7 @@
 
 ## Blazor
 
-- #### 🔒 [Blazor.Auth](https://github.com/BitzArt/Blazor.Auth) - authentication / authorization package for Blazor United
+- #### 🔒 [Blazor.Auth](https://github.com/BitzArt/Blazor.Auth) - Auth package for Blazor United
   Simplifies the process of implementing custom JWT-based authentication schemes in Blazor United. Supports all render modes, including Static SSR.
 
 - #### 🍪 [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies) - working with browser Cookies in Blazor United
