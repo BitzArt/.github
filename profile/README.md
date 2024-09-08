@@ -20,6 +20,9 @@
 - #### 🍪 [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies) - working with browser Cookies in Blazor United
   You can use cookies in your Blazor applications as a way to store user's unique information, such as preferences, settings, or session / authentication data.
 
+- #### 💾 [Blazor.State](https://github.com/BitzArt/Blazor.State) - Persisting Blazor component state across rendering environments
+  Persist component state generated while prerendering, restore component state when rehydrating the page.
+
 ## Protocol Implementations
 
 - #### ⚡ [OCPI.Net](https://github.com/BitzArt/OCPI.Net) is an implementation of OCPI for .Net.
